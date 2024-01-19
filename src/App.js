@@ -18,7 +18,7 @@ useEffect(() => {
   <>
   <div className="sec">{boxes}</div>
   <div class="light">
-		<p>Hello..Guyhhhhhhh hhhhhhhhhh kkkkkkkkkkk fffffffffs</p>
+		<p>Hi </p>
 		<p>Welcome to my website hhhh jjjjjjjjj llllllllll jjjjjjj ffffff</p>
 		<p>Here you can</p>
 		<p>Get Quotes with</p>
