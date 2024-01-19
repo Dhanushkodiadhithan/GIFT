@@ -8,7 +8,7 @@ useEffect(() => {
     const generateBoxes = () => {
       const newBoxes = [];
       for (let i = 1; i <= 300; i++) {
-        newBoxes.push(<span key={i} className="box">#DHANU</span>);
+        newBoxes.push(<span key={i} className="box">#JERRY</span>);
       }
       setBoxes(newBoxes);
     };
@@ -18,8 +18,8 @@ useEffect(() => {
   <>
   <div className="sec">{boxes}</div>
   <div class="light">
-		<p>Hello..Guys</p>
-		<p>Welcome to my website</p>
+		<p>Hello..Guyhhhhhhh hhhhhhhhhh kkkkkkkkkkk fffffffffs</p>
+		<p>Welcome to my website hhhh jjjjjjjjj llllllllll jjjjjjj ffffff</p>
 		<p>Here you can</p>
 		<p>Get Quotes with</p>
 		<p>Different categories like</p>
