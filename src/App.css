@@ -44,68 +44,76 @@ body{
 	position:absolute;
 	font-size:30px;
 	opacity:0;
-	animation: box 5s ease-in-out;
 	padding: 0px 20px;
-
+	
 }
 .light p span{
 	color:yellow;
 }
 .light p:nth-child(1)
 {
-	animation-delay:0s;
+	animation: box 5s ease-in-out;
+	animation-delay:2s;
 }
 .light p:nth-child(2)
 {
-	animation-delay:5s;
+	animation: box 5s ease-in-out;
+	animation-delay:7s;
 }
 .light p:nth-child(3)
 {
-	animation-delay:10s;
+	animation: box 5s ease-in-out;
+	animation-delay:13s;
 }
 .light p:nth-child(4)
 {
-	animation-delay:15s;
+	animation: box 5s ease-in-out;
+	animation-delay:17s;
 }
 .light p:nth-child(5)
 {
-	animation-delay:20s;
+	animation: box 9s ease-in-out;
+	animation-delay:22s;
 }
 .light p:nth-child(6)
 {
-	animation-delay:25s;
+	animation: box 5s ease-in-out;
+	animation-delay:31s;
 }
 .light p:nth-child(7)
 {
-	animation-delay:30s;
+	animation: box 9s ease-in-out;
+	animation-delay:36s;
 }
 .light p:nth-child(8)
 {
-	animation-delay:35s;
+	animation: box 9s ease-in-out;
+	animation-delay:41s;
 }
 .light p:nth-child(9)
 {
-	animation-delay:40s;
+	animation: box 5s ease-in-out;
+	animation-delay:56s;
 }
 .light p:nth-child(10)
 {
-	animation-delay:45s;
+	animation: box 9s ease-in-out;
+	animation-delay:61s;
 }
 .light p:nth-child(11)
 {
-	animation-delay:50s;
+	animation: box 5s ease-in-out;
+	animation-delay:70s;
 }
 .light p:nth-child(12)
 {
-	animation-delay:55s;
+	animation: box 5s ease-in-out;
+	animation-delay:75s;
 }
 .light p:nth-child(13)
 {
-	animation-delay:60s;
-}
-.light p:nth-child(14)
-{
-	animation-delay:65s;
+	animation: box 5s ease-in-out;
+	animation-delay:80s;
 }
 @keyframes box{
 	0%{

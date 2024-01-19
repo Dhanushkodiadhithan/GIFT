@@ -18,20 +18,19 @@ useEffect(() => {
   <>
   <div className="sec">{boxes}</div>
   <div class="light">
-		<p>Hi </p>
-		<p>Welcome to my website hhhh jjjjjjjjj llllllllll jjjjjjj ffffff</p>
-		<p>Here you can</p>
-		<p>Get Quotes with</p>
-		<p>Different categories like</p>
-		<p>Happy</p>
-		<p>Sad</p>
-		<p>Motivation</p>
-		<p>Life</p>
-		<p>Reality</p>
-		<p>Friends</p>
-		<p>Relationship</p>
-		<p>And so on..</p>
-		<p>Let's <span>Enjoy</span> it</p>
+		<p>Hi Dhanushkodi</p>
+		<p>I Know That Today Is Your Birthday</p>
+		<p>So This Is My Small Gift For You</p>
+		<p>In This I Am Not Going To Wish You</p>
+		<p>Normally Only On Birthday Others Will Treat Them As Special </p>
+		<p>But You Are <span>Luckeyy!!!</span>Because</p>
+		<p>You'r Having The Friends Who Will Treat You As Special Even At Normal Days...</p>
+		<p>I Think Now Too They Are Reading This With You</p>
+		<p>Whatever...</p>
+		<p>Now let's Open The Gift And Read Only The First Card</p>
+		<p>And Atlast One Thing</p>
+		<p><span>BE YOU !</span></p>
+		<p><span>FOR YOU !!</span></p>
 </div>
   </>
   )
