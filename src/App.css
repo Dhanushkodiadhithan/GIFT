@@ -4,31 +4,27 @@
   box-sizing: border-box;
 }
 .sec{
-
   position: relative;
   padding: 10px;
-  height: 100vh;
+  height:100vh;
   width: 100%;
-  overflow-y: hidden;
+  overflow: hidden;
   display: flex;
   flex-wrap: wrap;
   font-weight: bold;
   background-color: #111;
   gap: 0 18px;
 }
-
 .box{
 	font-weight: 700;
 	position: relative;
 }
 .box{
 	color:blue;
-	
 }
 .box:hover{
 	color: white;
 }
-
 .light{
 	position: absolute;
 	top:30%;
