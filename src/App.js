@@ -23,7 +23,7 @@ useEffect(() => {
 		<p>So This Is My Small Gift For You</p>
 		<p>In This I Am Not Going To Wish You</p>
 		<p>Normally Only On Birthday Others Will Treat Them As Special </p>
-		<p>But You Are <span>Luckeyy!!!</span>Because</p>
+		<p>But You Are <span>Luckeyy!!!</span> Because</p>
 		<p>You'r Having The Friends Who Will Treat You As Special Even At Normal Days...</p>
 		<p>I Think Now Too They Are Reading This With You</p>
 		<p>Whatever...</p>

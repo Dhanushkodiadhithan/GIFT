@@ -44,7 +44,7 @@ body{
 	position:absolute;
 	font-size:25px;
 	opacity:0;
-	padding: 0px 20px;
+	padding: 0px 30px;
 	text-align: justify;
 	
 }
@@ -94,27 +94,27 @@ body{
 .light p:nth-child(9)
 {
 	animation: box 5s ease-in-out;
-	animation-delay:56s;
+	animation-delay:50s;
 }
 .light p:nth-child(10)
 {
 	animation: box 9s ease-in-out;
-	animation-delay:61s;
+	animation-delay:55s;
 }
 .light p:nth-child(11)
 {
 	animation: box 5s ease-in-out;
-	animation-delay:70s;
+	animation-delay:61s;
 }
 .light p:nth-child(12)
 {
 	animation: box 5s ease-in-out;
-	animation-delay:75s;
+	animation-delay:66s;
 }
 .light p:nth-child(13)
 {
 	animation: box 5s ease-in-out;
-	animation-delay:80s;
+	animation-delay:71s;
 }
 @keyframes box{
 	0%{
