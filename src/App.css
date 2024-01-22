@@ -89,32 +89,32 @@ body{
 .light p:nth-child(8)
 {
 	animation: box 9s ease-in-out;
-	animation-delay:41s;
+	animation-delay:45s;
 }
 .light p:nth-child(9)
 {
 	animation: box 5s ease-in-out;
-	animation-delay:50s;
+	animation-delay:54s;
 }
 .light p:nth-child(10)
 {
 	animation: box 9s ease-in-out;
-	animation-delay:55s;
+	animation-delay:59s;
 }
 .light p:nth-child(11)
 {
 	animation: box 5s ease-in-out;
-	animation-delay:61s;
+	animation-delay:65s;
 }
 .light p:nth-child(12)
 {
 	animation: box 5s ease-in-out;
-	animation-delay:66s;
+	animation-delay:70s;
 }
 .light p:nth-child(13)
 {
 	animation: box 5s ease-in-out;
-	animation-delay:71s;
+	animation-delay:75s;
 }
 @keyframes box{
 	0%{
