@@ -18,7 +18,7 @@ useEffect(() => {
   <>
   <div className="sec">{boxes}</div>
   <div class="light">
-		<p>Hi Dhakshna Priya</p>
+		<p>Hi Friend</p>
 		<p>I Know That Today Is Your Birthday</p>
 		<p>So This Is My Small Gift For You</p>
 		<p>In This I Am Not Going To Wish You</p>
